@@ -1,0 +1,10 @@
+designs.js
+
+The designs.js file is my Final Version of the Project. It is linked in the HTML.
+
+
+
+designs_V2_colorcomp.js 
+
+In this Version I tried work around having to click a cell twice when choosing a different  color. I have found a way, which involves color comparison. Reading up on it, I have found out it is NOT a solution that will hold up in ALL browsers, and color comparison in general should not be done, for that reason.
+I would love to hear a way of doing this in my Project Review. Thanks! 
