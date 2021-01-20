@@ -1,4 +1,7 @@
-PROJECT: PIXEL ART MAKER
+PROJECT: PIXEL ART MAKER 
+By Felix Harder
+
+For Udacity - Intro to Programming Nanodegree Program
 
 PROJECT OVERVIEW
 
